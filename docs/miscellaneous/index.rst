@@ -2,8 +2,7 @@ Miscellaneous
 =============
 
 .. toctree::
-    :titlesonly:
-    :caption: The following articles cover miscellaneous topics
+    :hidden:
 
     connection-strings
     logging

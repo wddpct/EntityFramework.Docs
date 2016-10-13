@@ -1,10 +1,8 @@
 Querying Data
 =============
 
-The following articles are available
-
 .. toctree::
-  :titlesonly:
+  :hidden:
   :maxdepth: 1
 
   basic

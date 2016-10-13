@@ -2,7 +2,6 @@ Entity Framework Core
 =====================
 
 .. toctree::
-    :titlesonly:
     :hidden:
     :maxdepth: 2
 
@@ -14,5 +13,4 @@ Entity Framework Core
     efcore-vs-ef6/index
     providers/index
     miscellaneous/index
-
-.. include:: /_shared/intro.txt
+ 

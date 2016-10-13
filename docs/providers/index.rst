@@ -2,8 +2,7 @@ Database Providers
 ==================
 
 .. toctree::
-    :titlesonly:
-    :caption: The following providers are available
+    :hidden:
     :maxdepth: 1
 
     sql-server/index

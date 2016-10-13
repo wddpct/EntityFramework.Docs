@@ -1,10 +1,8 @@
 EF Core vs. EF6.x
 =================
 
-The following articles are available
-
 .. toctree::
-  :titlesonly:
+  :hidden:
 
   choosing
   features

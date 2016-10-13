@@ -1,12 +1,8 @@
-.. include:: _shared/relational-specific-note.txt
-
 Relational Database Modeling
 ============================
 
-This section covers aspects of modeling that are specific to relational databases.
-
 .. toctree::
-   :titlesonly:
+   :hidden:
 
    tables
    columns
