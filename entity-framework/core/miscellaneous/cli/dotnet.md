@@ -1,5 +1,5 @@
 ---
-title: .NET Core CLI | Microsoft Docs
+title: EF Core CLI | Microsoft Docs
 author: rowanmiller
 ms.author: divega
 
@@ -10,7 +10,7 @@ ms.technology: entity-framework-core
 
 uid: core/miscellaneous/cli/dotnet
 ---
-# .NET Command Line Tools
+# .NET Core Command Line Tools for EF Core
 
 > [!NOTE]
 > This documentation is for EF Core. For EF6.x, see [Entity Framework 6](../../../ef6/index.md).
